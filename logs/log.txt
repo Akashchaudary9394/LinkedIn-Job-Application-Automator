@@ -1,0 +1,332 @@
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+SAFE MODE: Will login with a guest profile, browsing history will not be saved in the browser!
+Login successful!
+
+########################################################################################################################
+
+Date and Time: 2025-11-18 09:21:17.511721
+Cycle number: 1
+Currently looking for jobs posted within 'Past week' and sorting them by ''
+
+________________________________________________________________________________________________________________________
+
+
+>>>> Now searching for "Software Engineer" <<<<
+
+
+Setting search location as: "United States"
+
+-@-
+
+Trying to Apply to "Software Engineer - Applications (NYC) | LinkedI" job. Job ID: 4317506689
+HR info was not given for "Software Engineer - Applications (NYC)" with Job ID: 4317506689!
+
+About the job
+Company Description
+
+LinkedIn is the worlds largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. Were also committed to providing transformational opportunities for our own employees by investing in their growth. We aspire to create a culture thats built on trust, care, inclusion, and fun where everyone can succeed.
+
+Job Description
+
+At LinkedIn, our approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business. The work location of this role is hybrid, meaning it will be performed both from home and from a LinkedIn office on select days, as determined by the business needs of the team.
+
+Responsibilities:
+
+You will scale distributed applications, make architectural trade-offs applying synchronous and asynchronous design patterns, write code, and deliver with speediness and quality.
+You will develop multi-tier scalable, high-volume performing, and reliable user-centric applications that operate 24x7.
+You will produce high quality software that is unit tested, code reviewed, and checked in regularly for continuous integration.
+You will provide technical leadership, driving and performing best engineering practices to initiate, plan, and execute large-scale, cross functional, and company-wide critical programs. Identify, leverage, and successfully evangelize opportunities to improve engineering productivity
+
+
+Qualifications
+
+Basic Qualifications:
+
+BA/BS in Computer Science or related technical field or equivalent practical experience
+1+ years of industry experience in software design, development, and algorithm related solutions
+Experience programming in languages such as Python, Java, Javascript, C/C++, C#, Objective-C, Ruby, etc.
+
+
+Preferred Qualifications:
+
+Experience in designing and building infrastructure and web services at large scale.
+Expert knowledge of computer science, with strong competencies in data structures, algorithms, and software design.
+Proven coding skills in Python or JavaScript/AJAX, database design and SQL, and/or knowledge of TCP/IP and network programming.
+Experience building web applications and services with IDEs, ant, junit, etc.
+Experience with relational databases (transactional and non-transactional), database architecture, and distributed transaction management.
+
+
+Suggested Skills:
+
+API Development
+Programming Proficiency
+Performance Optimization and Monitoring
+Collaboration
+
+
+You will Benefit from our Culture
+
+We strongly believe in the well-being of our employees and their families. That is why we offer generous health and wellness programs and time away for employees of all levels.
+
+LinkedIn is committed to fair and equitable compensation practices. The pay range for this role is $102,000 - $167,000. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location. This may be different in other locations due to differences in the cost of labor.
+
+The total compensation package for this position may also include annual performance bonus, stock, benefits and/or other applicable incentive compensation plans. For more information, visit https://careers.linkedin.com/benefits
+
+Additional Information
+
+Equal Opportunity Statement 
+
+We seek candidates with a wide range of perspectives and backgrounds and we are proud to be an equal opportunity employer. LinkedIn considers qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+
+LinkedIn is committed to offering an inclusive and accessible experience for all job seekers, including individuals with disabilities. Our goal is to foster an inclusive and accessible workplace where everyone has the opportunity to be successful.
+
+If you need a reasonable accommodation to search for a job opening, apply for a position, or participate in the interview process, connect with us at accommodations@linkedin.com and describe the specific accommodation requested for a disability-related limitation.
+
+Reasonable accommodations are modifications or adjustments to the application or hiring process that would enable you to fully participate in that process. Examples of reasonable accommodations include but are not limited to:
+
+Documents in alternate formats or read aloud to you
+Having interviews in an accessible location
+Being accompanied by a service dog
+Having a sign language interpreter present for the interview
+
+
+A request for an accommodation will be responded to within three business days. However, non-disability related requests, such as following up on an application, will not receive a response.
+
+LinkedIn will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by LinkedIn, or (c) consistent with LinkedIn's legal duty to furnish information.
+
+San Francisco Fair Chance Ordinance 
+
+Pursuant to the San Francisco Fair Chance Ordinance, LinkedIn will consider for employment qualified applicants with arrest and conviction records.
+
+Pay Transparency Policy Statement 
+
+As a federal contractor, LinkedIn follows the Pay Transparency and non-discrimination provisions described at this link: https://lnkd.in/paytransparency.
+
+Global Data Privacy Notice for Job Candidates 
+
+Please follow this link to access the document that provides transparency around the way in which LinkedIn handles personal data of employees and job applicants: https://legal.linkedin.com/candidate-portal.
+
+Contains bad word "Ruby". Skipping this job!
+
+
+-@-
+
+Trying to Apply to "Entry Level Software Engineer | WebF" job. Job ID: 4298218043
+HR info was not given for "Entry Level Software Engineer" with Job ID: 4298218043!
+Click Failed! Didn't find 'Next'
+Answered the following questions...
+{('last name', 'kumar', 'text', 'kumar'), ('Unfortunately, WebFX is unable to sponsor work visas. Will you now or in the future require sponsorship for employment visa status? [  "Yes"<939f4e4c-94a0-4705-a05e-c866e221c16c>, "No"<252dab70-7ae9-416b-b637-334f1cb0e746>, ]', 'No', 'radio', None), ('first name', 'Prem', 'text', 'Prem'), ('Phone country code [ "List of phone country codes" ]', 'Yes', 'select', 'India (+91)'), ('Email address [  "Select an option", "premkumar39411@gmail.com", ]', 'Yes', 'select', 'premkumar39411@gmail.com'), ('mobile phone number', '9386225649', 'text', '9386225649')}
+Click Failed! Didn't find 'Review'
+Click Failed! Didn't find 'Submit application'
+Click Failed! Didn't find 'Done'
+Failed to Easy apply!
+Somewhere in Easy Apply process
+cannot access local variable 'do_actions' where it is not associated with a value
+2025-11-18 09:22:09.835514
+
+-@-
+
+Trying to Apply to "Software Engineer | Greylock Partner" job. Job ID: 4340863146
+HR info was not given for "Software Engineer" with Job ID: 4340863146!
+
+About the job
+Greylock closely partners with just a handful of remarkable founders each year. Our portfolio includes iconic companies like Workday, Figma, Airbnb, and Roblox. Now, we’re backing a new enterprise AI startup tackling a problem that companies spend billions trying to solve, led by a repeat founder with a proven track record of success.
+
+We’re looking for outstanding product or infrastructure software engineers who thrive in ambiguity, enjoy building from scratch, and love shaping early product development stages. The ideal candidate hopes to start a company someday but is eager to learn and grow by working closely with experienced leaders.
+
+In this role, you will:
+
+Define the core architecture and product direction from the very start.
+Collaborate across backend, infrastructure, and product layers to solve complex engineering challenges—from distributed systems, APIs, and cloud services (AWS/GCP, Kubernetes, Postgres) to React/TypeScript for product development.
+Work directly with the founder to influence both the product and the company’s future.
+
+What we’re looking for:
+
+Strong experience designing and building complex systems end-to-end.
+Ability to thrive in an early-stage environment, moving quickly while upholding high standards.
+Bonus if you’ve built enterprise integrations, workflow platforms, or internal tool builders.
+
+This is a rare opportunity to join an early-stage, venture-backed company leading the next chapter in enterprise software.
+
+Location: San Francisco (in-office)
+
+Couldn't find experience requirement in About the Job!
+Click Failed! Didn't find 'Next'
+Answered the following questions...
+{('phone', '9386225649', 'text', '9386225649'), ('Email [  "Select an option", "premkumar39411@gmail.com", ]', 'Yes', 'select', 'premkumar39411@gmail.com'), ('Phone country code [ "List of phone country codes" ]', 'Yes', 'select', 'India (+91)')}
+Click Failed! Didn't find 'Review'
+Click Failed! Didn't find 'Done'
+Successfully saved "Software Engineer | Greylock Partner" job. Job ID: 4340863146 info
+
+-@-
+
+Trying to Apply to "Associate Software Engineer | Caban" job. Job ID: 4341124829
+
+About the job
+Founding Full-Stack Engineer | San Francisco | $130k–£180k + equity
+
+I’m working with a YC-backed defense AI startup that’s scaling like crazy (60% MoM growth, profitable, $1M ARR inside 8 months, $3.3M raised). They’re building an AI platform that helps defense suppliers, from seatbelt makers to loitering munitions, win the right government contracts.
+
+They’re lean, scrappy, and hiring their Founding Engineer to own massive parts of the stack, ship fast, and work directly with customers shaping mission-critical defense tech.
+
+What you’ll be doing
+Ship full-stack features daily (70/30 backend/frontend bias but comfortable across the stack)
+Build AI agents + LLM-based workflows into production systems
+Talk to users (defense companies, military stakeholders) and turn feedback into product decisions
+Work on hard, ambiguous problems with huge national-security impact
+Be in-person in San Francisco, with occasional travel to DC / military bases
+
+What they’re looking for
+0–4 YoE ideal (can flex up to 7 for exceptional talent)
+Strong background in React, Next.js, Python
+Ex-technical founder, founding CTO/CPO, or Forward Deployed Engineer background = big plus
+Hungry, fast-moving builder who thrives with agency, feedback, and ambiguity
+US citizen only (no visa sponsorship)
+
+Package
+$130k–$180k
+SF office, 5 days/week
+
+Contains bad word "US Citizen". Skipping this job!
+
+
+-@-
+
+Trying to Apply to "Software Engineer | Goliath Partner" job. Job ID: 4336673690
+
+About the job
+We’re seeking elite C++ engineers to join a world-class quantitative systems team focused on building next-generation, low-latency trading infrastructure. This is a rare opportunity to contribute to the greenfield development of systems that redefine speed, scale, and performance in global markets.
+
+
+Responsibilities
+Design and implement highly optimized, low-latency systems that power large-scale trading and data pipelines.
+Collaborate with quantitative researchers and infrastructure teams to build performant, reliable, and scalable solutions.
+Work on algorithmic optimization, network-level performance, and real-time data processing across distributed systems.
+Contribute to architectural decisions, tooling, and testing strategies for mission-critical software.
+
+Qualifications
+Bachelor’s degree in Computer Science, Mathematics, Statistics, or a related technical field at a reputable university. 
+Expert proficiency in C/C++ and the Standard Template Library (STL).
+Strong grasp of algorithms, data structures, and systems-level programming.
+Experience in high-performance computing, low-latency engineering, networking (e.g., Solarflare, multicast), memory management, or software optimization.
+
+If this sounds of interest please apply & we'll reach out!
+
+Couldn't find experience requirement in About the Job!
+Click Failed! Didn't find 'Next'
+Answered the following questions...
+{('phone', '9386225649', 'text', '9386225649'), ('Email [  "Select an option", "premkumar39411@gmail.com", ]', 'Yes', 'select', 'premkumar39411@gmail.com'), ('Phone country code [ "List of phone country codes" ]', 'Yes', 'select', 'India (+91)')}
+Click Failed! Didn't find 'Review'
+Click Failed! Didn't find 'Done'
+Successfully saved "Software Engineer | Goliath Partner" job. Job ID: 4336673690 info
+
+-@-
+
+Trying to Apply to "Junior Software Engineer | D" job. Job ID: 4287974608
+HR info was not given for "Junior Software Engineer" with Job ID: 4287974608!
+
+About the job
+About DX
+DX helps companies build world-class engineering organizations by providing leaders with insights into developer experience and productivity. DX is bootstrapped, profitable, and consistently growing revenue more than 3X year over year. We’re based in downtown Salt Lake City with customers like Indeed, Etsy, Dropbox, Twilio, Pfizer, and Vanguard.
+
+About the role
+This is a junior-level role where you'll spend your first 12–18 months dedicated to frontline engineering support, helping you gain technical fluency across our stack and build the foundations for your engineering career. Following this initial 12–18 month period, you will “graduate” into a more senior product engineering role, developing new features and capabilities.
+
+Our engineering team is extremely small and we aim to keep it that way. This means that each person on our team carries significant weight and responsibility, and must ship a lot. In return, we have great compensation, zero bureaucracy, little to no meetings, and the opportunity to immensely impact the business each day. We’re looking for someone who’s eager to dive in, contribute, and launch their career at DX.
+
+Key responsibilities
+Manage our Engineering Support Rotation during your onboarding phase, solving real-world technical issues.
+Collaborate with senior engineers to resolve bugs, optimize performance, and implement solutions.
+Work closely with internal teams to ensure customers’ success.
+
+About you
+You’re a fast-learner who performs work with a high-level of intensity.
+You’re able to take ownership, work under pressure, and meet deadlines on time.
+You’re able to regularly work more than 40 hours/week—including after-hours or weekends when needed—to meet the workload and performance expectations that this role requires.
+You have foundational knowledge of web application development.
+
+Bonus points if you
+Have startup experience
+Have experience working with Ruby, React, and/or PostgreSQL
+
+Why you’ll love working here
+Mentorship & growth. You’ll work directly with senior engineers who will mentor you as you grow into a full-time product engineer.
+Ownership & impact. You’ll see the direct results of your efforts in our product’s performance and customer satisfaction.
+Collaborative culture. We’re a tight-knit team that values curiosity, knowledge sharing, and learning from one another.
+
+Benefits
+Competitive salary and meaningful equity in a high-growth-stage startup
+401k with 4% match
+Unlimited PTO
+Fully covered medical insurance
+
+Contains bad word "Ruby". Skipping this job!
+
+
+-@-
+
+Trying to Apply to "Software Engineer | Misapplied Sciences, Inc" job. Job ID: 4336702399
+
+About the job
+Misapplied Sciences is a VC-backed startup bringing an unprecedented innovation to the world. Parallel Reality™ displays are a new technology where many people, standing shoulder-to-shoulder looking at the same display at the same time, can each see something different. The technology can work for crowds of up to thousands of people, and no glasses are required. With Parallel Reality™ technology, public venues such as airports, stadiums, shopping malls, and resorts can be personalized for every individual simultaneously.
+
+We're seeking a Software Engineer to drive the development of the high-performance software and graphics platform that empowers creatives and engineers to tap the capabilities of a powerful new technology.
+
+As part of our team, you'll join us on the world stage. Your contributions will be experienced by millions at popular venues and events hosted by internationally renowned companies. Your colleagues will include former Disney Imagineers, Microsoft Researchers, and Stanford and Caltech alums. You'll help shape our products and experiences, with the opportunity to collaborate on highly unique software, hardware, and creative challenges. Our lab is in Old Town Pasadena - Southern California’s famous historic, cultural, and dining destination.
+
+This role will benefit from experience/interest in one or more of the following:
+Architecting high-performance, multi-threaded software platforms
+Interfacing with state-of-the-art sensing technology and custom hardware
+Optimizing across boundaries of a multi-disciplinary opto-electrical-mechanical system
+Inventing novel rendering, mathematical, and computer vision algorithms
+Establishing strong software engineering discipline, principles, and foundations
+C++, Python, OpenCV, Qt, Boost, OpenGL/Direct3D, Socket Programming
+
+Please visit us at https://www.misappliedsciences.com for more information.
+
+Couldn't find experience requirement in About the Job!
+Click Failed! Didn't find 'Next'
+Answered the following questions...
+{('Email address [  "Select an option", "premkumar39411@gmail.com", ]', 'Yes', 'select', 'premkumar39411@gmail.com'), ('mobile phone number', '9386225649', 'text', '9386225649'), ('Phone country code [ "List of phone country codes" ]', 'Yes', 'select', 'India (+91)')}
+Click Failed! Didn't find 'Review'
+Click Failed! Didn't find 'Submit application'
+Since, Submit Application failed, discarding the job application...
+Failed to Easy apply!
+Somewhere in Easy Apply process
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-11-18 09:22:46.331664
+Failed to find Job listings!
+In Applier
+HTTPConnectionPool(host='localhost', port=41117): Max retries exceeded with url: /session/2329393851c99ae895ab168c91a97a3b/actions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63c0e66cf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-11-18 09:22:46.336200
+Failed to get page source, browser might have crashed. HTTPConnectionPool(host='localhost', port=41117): Max retries exceeded with url: /session/2329393851c99ae895ab168c91a97a3b/source (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63c0e67680>: Failed to establish a new connection: [Errno 111] Connection refused'))
+In Applier Main
+HTTPConnectionPool(host='localhost', port=41117): Max retries exceeded with url: /session/2329393851c99ae895ab168c91a97a3b/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63c0ee8050>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-11-18 09:22:46.345029
+
+
+Total runs:                     1
+Jobs Easy Applied:              2
+External job links collected:   0
+                              ----------
+Total applied or collected:     2
+
+Failed jobs:                    2
+Irrelevant jobs skipped:        3
+
+
+
+Questions randomly answered:
+  ('What is your full permanent address (Street, City, State, Zip)?', 'textarea')  
+
+
+
+Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson
+
+
+Best regards,
+Prem Kumar & Vala Chintan 
+https://www.linkedin.com/in/prem-kumar007/
+
+
+Closing the browser...
