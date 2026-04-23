@@ -4,69 +4,84 @@ import csv
 from datetime import datetime
 import os
 
-app = Flask(__name__)
-CORS(app)
+# Application setup
+application = Flask(__name__)
+CORS(application)
 
-PATH = 'all excels/'
+# Configuration constants
+EXCEL_DIRECTORY = 'all excels/'
+APPLICATIONS_CSV_FILENAME = 'all_applied_applications_history.csv'
+APPLICATIONS_FILE_PATH = os.path.join(EXCEL_DIRECTORY, APPLICATIONS_CSV_FILENAME)
 
-@app.route('/')
-def home():
+
+@application.route('/')
+def serve_homepage():
+    """Render the main index page."""
     return render_template('index.html')
 
-@app.route('/applied-jobs', methods=['GET'])
-def get_applied_jobs():
+
+@application.route('/applied-jobs', methods=['GET'])
+def retrieve_applied_jobs():
+    """Fetch all applied job records from the CSV file."""
     try:
-        jobs = []
-        with open(PATH + 'all_applied_applications_history.csv', 'r', encoding='utf-8') as file:
-            reader = csv.DictReader(file)
-            for row in reader:
-                jobs.append({
-                    'Job_ID': row['Job ID'],
-                    'Title': row['Title'],
-                    'Company': row['Company'],
-                    'HR_Name': row['HR Name'],
-                    'HR_Link': row['HR Link'],
-                    'Job_Link': row['Job Link'],
-                    'External_Job_link': row['External Job link'],
-                    'Date_Applied': row['Date Applied']
+        job_records = []
+        with open(APPLICATIONS_FILE_PATH, 'r', encoding='utf-8') as csv_file:
+            csv_reader = csv.DictReader(csv_file)
+            for record in csv_reader:
+                job_records.append({
+                    'Job_ID': record['Job ID'],
+                    'Title': record['Title'],
+                    'Company': record['Company'],
+                    'HR_Name': record['HR Name'],
+                    'HR_Link': record['HR Link'],
+                    'Job_Link': record['Job Link'],
+                    'External_Job_link': record['External Job link'],
+                    'Date_Applied': record['Date Applied']
                 })
-        return jsonify(jobs)
+        return jsonify(job_records)
+
     except FileNotFoundError:
         return jsonify({"error": "No applications history found"}), 404
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+    except Exception as error:
+        return jsonify({"error": str(error)}), 500
 
-@app.route('/applied-jobs/<job_id>', methods=['PUT'])
-def update_applied_date(job_id):
+
+@application.route('/applied-jobs/<job_id>', methods=['PUT'])
+def refresh_application_timestamp(job_id):
+    """Update the Date Applied field for a specific job ID."""
     try:
-        data = []
-        csvPath = PATH + 'all_applied_applications_history.csv'
+        updated_rows = []
         
-        if not os.path.exists(csvPath):
-            return jsonify({"error": f"CSV file not found at {csvPath}"}), 404
-            
-        with open(csvPath, 'r', encoding='utf-8') as file:
-            reader = csv.DictReader(file)
-            fieldNames = reader.fieldnames
-            found = False
-            for row in reader:
-                if row['Job ID'] == job_id:
-                    row['Date Applied'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                    found = True
-                data.append(row)
-        
-        if not found:
+        if not os.path.exists(APPLICATIONS_FILE_PATH):
+            return jsonify({"error": f"CSV file not found at {APPLICATIONS_FILE_PATH}"}), 404
+
+        # Read existing data
+        with open(APPLICATIONS_FILE_PATH, 'r', encoding='utf-8') as input_file:
+            csv_reader = csv.DictReader(input_file)
+            field_headers = csv_reader.fieldnames
+            job_exists = False
+
+            for row_data in csv_reader:
+                if row_data['Job ID'] == job_id:
+                    row_data['Date Applied'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    job_exists = True
+                updated_rows.append(row_data)
+
+        if not job_exists:
             return jsonify({"error": f"Job ID {job_id} not found"}), 404
 
-        with open(csvPath, 'w', encoding='utf-8', newline='') as file:
-            writer = csv.DictWriter(file, fieldnames=fieldNames)
-            writer.writeheader()
-            writer.writerows(data)
-        
+        # Write updated data back
+        with open(APPLICATIONS_FILE_PATH, 'w', encoding='utf-8', newline='') as output_file:
+            csv_writer = csv.DictWriter(output_file, fieldnames=field_headers)
+            csv_writer.writeheader()
+            csv_writer.writerows(updated_rows)
+
         return jsonify({"message": "Date Applied updated successfully"}), 200
-    except Exception as e:
-        print(f"Error updating applied date: {str(e)}")
-        return jsonify({"error": str(e)}), 500
+
+    except Exception as error:
+        print(f"Error updating applied date: {str(error)}")
+        return jsonify({"error": str(error)}), 500
+
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    application.run(debug=True)
